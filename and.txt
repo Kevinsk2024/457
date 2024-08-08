@@ -1,1 +1,7 @@
 ATTTT
+git init
+git add and.txt
+git commit -m "Subir"
+git branch -M main
+git remote add origin http:
+git push -u origin main 
